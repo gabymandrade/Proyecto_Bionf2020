@@ -44,7 +44,7 @@ This folder corresponds to the script output 1_clean_adapters.sh, who works with
 
 **GBS-ApeKI-1-96_barcodes.txt**: which has information on the barcode and the position of the sample on the plate as given by the sequencing facility.
 
-**_md5sum.txt**: test to check if data download was done without errors.
+_md5sum.txt: test to check if data download was done without errors.
 
 **_multiqc_report.html**: is an average quality report of the sequences 
 
