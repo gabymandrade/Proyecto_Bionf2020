@@ -15,8 +15,6 @@ In the `/bin` directory you will find:
 
 * 4_index_genome.sh: script that constructs the FM-index for the reference genome, what is necessary to run bwa 
 
-* 5_alignment_refgen_bwa.sh: 
-
 * reads_perpopulation_plate1.R: script to graph in ggplot2 the reads by population of plate 1
 
 
@@ -49,8 +47,6 @@ This folder corresponds to the script output 1_clean_adapters.sh, who works with
 **_md5sum.txt**: test to check if data download was done without errors.
 
 **_multiqc_report.html**: is an average quality report of the sequences 
-
-**meta_placa1.xlsx**:
 
 **Pinero-Sept19_S59_L002_R1_001.fastq.gz**: contains the reads in .fastq.gz, only FORWARD 
 
