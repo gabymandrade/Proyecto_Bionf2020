@@ -1,0 +1,18 @@
+TrimmomaticSE: Started with arguments:
+ ../data/raw/plate1/Pinero-Sept19_S59_L002_R1_001.fastq.gz ../data/clean/Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz ILLUMINACLIP:Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 MINLEN:70
+Automatically using 1 threads
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Reads: 229242021 Surviving: 229242004 (100.00%) Dropped: 17 (0.00%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ ../data/raw/plate1/Pinero-Sept19_S59_L002_R2_001.fastq.gz ../data/clean/Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz ILLUMINACLIP:Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 MINLEN:70
+Automatically using 1 threads
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Reads: 229242021 Surviving: 202503272 (88.34%) Dropped: 26738749 (11.66%)
+TrimmomaticSE: Completed successfully

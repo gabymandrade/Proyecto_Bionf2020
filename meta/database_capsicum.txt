@@ -1,0 +1,97 @@
+LOCALITY	TYPE: WILD(W), ARVENSE(A), CULTIVATED (C)	VARIETY	LATITUDE	LONGITUDE	ELEVATION	INDIVIDUAL/REPLICATION	CONTACT	BARCODE
+Moctezuma	W	C. annuum var. glabriusculum	29.571	-110.002	1129	Individual	Ale_Moreno	CTCC
+Moctezuma	W	C. annuum var. glabriusculum	29.571	-110.002	1129	Individual	Ale_Moreno	TTCTC
+Moctezuma	W	C. annuum var. glabriusculum	29.571	-110.002	1129	Individual	Ale_Moreno	GCTTA
+Moctezuma	W	C. annuum var. glabriusculum	29.571	-110.002	1129	Individual	Ale_Moreno	AACGCCT
+Los_Mautos	W	C. annuum var. glabriusculum	28.635	-110.188	437	Individual	Ale_Moreno	AGGC
+Los_Mautos	W	C. annuum var. glabriusculum	28.635	-110.188	437	Individual	Ale_Moreno	TCGTT
+Los_Mautos	W	C. annuum var. glabriusculum	28.635	-110.188	437	Individual	Ale_Moreno	TGGCTA
+Los_Mautos	W	C. annuum var. glabriusculum	28.635	-110.188	437	Individual	Ale_Moreno	TGCTGGA
+Bernal	W	C. annuum var. glabriusculum	20.91	-99.826	1793	Individual	Ale_Moreno	TGCA
+Bernal	W	C. annuum var. glabriusculum	20.91	-99.826	1793	Individual	Ale_Moreno	AGCCC
+Bernal	W	C. annuum var. glabriusculum	20.91	-99.826	1793	Individual	Ale_Moreno	CTTCCA
+Bernal	W	C. annuum var. glabriusculum	20.91	-99.826	1793	Individual	Ale_Moreno	AATATGC
+El_Huajote	¿W?	C. annuum var. glabriusculum	23.106	-106.116	48	Individual	Ale_Moreno	GATC
+El_Huajote	¿W?	C. annuum var. glabriusculum	23.106	-106.116	48	Individual	Ale_Moreno	ACCTAA
+Elota	A	C. annuum var. glabriusculum	23.954	-106.726	139	Individual	Ale_Moreno	ACGTGTT
+El_Potrero	C	C. annuum var. glabriusculum	23.391	-106.448	36	Individual	Ale_Moreno	AACCGAGA
+Sanalona	A	C. annuum var. glabriusculum	24.791	-107.136	122	Individual	Ale_Moreno	ACTA
+Sanalona	A	C. annuum var. glabriusculum	24.791	-107.136	122	Individual	Ale_Moreno	GTATT
+Temporal	C	C. annuum var. glabriusculum	28.715	-110.351	352	Individual	Ale_Moreno	GAGATA
+Temporal	C	C. annuum var. glabriusculum	28.715	-110.351	352	Individual	Ale_Moreno	ACGACTAC
+Temporal	C	C. annuum var. glabriusculum	28.715	-110.351	352	Individual	Ale_Moreno	TCAC
+Temporal	C	C. annuum var. glabriusculum	28.715	-110.351	352	Individual	Ale_Moreno	ATATGT
+Temporal	C	C. annuum var. glabriusculum	28.715	-110.351	352	Individual	Ale_Moreno	ATTAATT
+Temporal	C	C. annuum var. glabriusculum	28.715	-110.351	352	Individual	Ale_Moreno	ACAGGGAA
+Temporal	C	C. annuum var. glabriusculum	28.715	-110.351	352	Individual	Ale_Moreno	CAGA
+Chihuahua	W or A	C. annuum var. glabriusculum	28.715	-110.351	¿?	Individual	Sol_Cristians_Niizawa	CTGTA
+Santo_Domingo_del_Ingenio	W	C. annuum var. glabriusculum	16.54769268	-94.8044	25	Repetition	Lev_Jardón	ATGCCT
+Santo_Domingo_del_Ingenio	W	C. annuum var. glabriusculum	16.54769268	-94.8044	25	Repetition	Lev_Jardón	GGTGT
+Santo_Domingo_del_Ingenio	W	C. annuum var. glabriusculum	16.54769268	-94.8044	29	Individual	Lev_Jardón	AGGAT
+Tancamá_Zona_Arqueológica	W	C. annuum var. glabriusculum	21.1601889	-99.3974	974	Individual	Lev_Jardón	ATCGTA
+Tancamá_Zona_Arqueológica	W	C. annuum var. glabriusculum	21.1601889	-99.3974	974	Individual	Lev_Jardón	ATTGGAT
+Tancamá_Zona_Arqueológica	W	C. annuum var. glabriusculum	21.1601889	-99.3974	974	Individual	Lev_Jardón	ACGTGGTA
+Tolimán	A	C. annuum var. glabriusculum	20.908	-99.926	1671	Individual	Lev_Jardón	AACT
+Rancho_la_Espadañuela	W	C. annuum var. glabriusculum	21.374	-99.331	694	Individual	Lev_Jardón	ACCGT
+Rancho_la_Espadañuela	W	C. annuum var. glabriusculum	21.374	-99.331	694	Individual	Lev_Jardón	TATTTTT
+Rancho_la_Espadañuela	C	C. annuum var. glabriusculum	21.374	-99.331	694	Individual	Lev_Jardón	TAGCATGC
+Soto_la_Marina	W	C. annuum var. glabriusculum	23.893	-97.81	8	Individual	Herbarium_IB	ATTGA
+El_Mirador	W	C. annuum var. glabriusculum	20.9182374	-99.8091	1692	Individual	Lev_Jardón	CATCGT
+El_Mirador	W	C. annuum var. glabriusculum	20.9182374	-99.8091	1692	Individual	Lev_Jardón	CATAAGT
+El_Mirador	W	C. annuum var. glabriusculum	20.9182374	-99.8091	1692	Individual	Lev_Jardón	CCATGGGT
+El_Mirador	W	C. annuum var. glabriusculum	20.9182374	-99.8091	1692	Individual	Lev_Jardón	GCGT
+El_Mirador	W	C. annuum var. glabriusculum	20.9182374	-99.8091	1692	Individual	Lev_Jardón	GTAA
+El_Mirador	W	C. annuum var. glabriusculum	20.9182374	-99.8091	1692	Individual	Lev_Jardón	CTTGCTT
+El_Patol	W	C. annuum var. glabriusculum	20.824	-99.892	1224	Individual	Lev_Jardón	AGTGGA
+El_Patol	W	C. annuum var. glabriusculum	20.824	-99.892	1224	Individual	Lev_Jardón	CATCT
+El_Patol	W	C. annuum var. glabriusculum	20.824	-99.892	1224	Individual	Lev_Jardón	CGCGGT
+El_Patol	W	C. annuum var. glabriusculum	20.824	-99.892	1224	Individual	Lev_Jardón	CGCTGAT
+El_Patol	W	C. annuum var. glabriusculum	20.824	-99.892	1224	Individual	Lev_Jardón	CGCGGAGA
+Juan_Diegal	W	Monte	15.717	-96.438	121	Repetition	Lev_Jardón	TGCGA
+Guadalupe_Victoria	A	Chligol o Chilgole	16.0154667	-95.88925	417	Individual	Lev_Jardón	GGTTGT
+Valerio_Trujano	W	Monte	17.769	-96.975	639	Individual	Lev_Jardón	ATGAAAC
+Juchitán	A	Zopilote	16.441	-95.003	13	Individual	Lev_Jardón	TAGGCCAT
+Juchitán	C	?	16.441	-95.003	13	Individual	Lev_Jardón	CCTAC
+Juchitán	A	Chocolate	16.441	-95.003	13	Individual	Lev_Jardón	CTATTA
+Guzmán	A	Nanche	15.775	-96.485	130	Individual	Lev_Jardón	CGGTAGA
+Santo_Domingo_del_Ingenio	A	?	16.547	-94.804	47	Repetition	Lev_Jardón	CGTGTGGT
+Santo_Domingo_del_Ingenio	A	Pajita	16.547	-94.804	1224	Repetition	Lev_Jardón	CGAT
+Santo_Domingo_del_Ingenio	A	Zopilote	16.547	-94.804	1224	Individual	Lev_Jardón	CCAGCT
+Santo_Domingo_del_Ingenio	A	Zopilote	16.547	-94.804	1224	Individual	Lev_Jardón	AAAAGTT
+Rio_Viejo	A	Pico de paloma (Ale M)	17.9588	-92.987098	9	Individual	Ale_Moreno	TGCAAGGA
+Yelapa	A	Chiltepín	20.487	-105.447	56	Individual	Alicia_Mastretta	GAGGA
+Ocozocuautla_el_Gavilán	W	Traspatio.Chiltepín	16.752	-93.457	19	Individual	Alicia_Mastretta	GCCAGT
+El_Coyul	A	Piquín	15.919	-95.813	18	Individual	Lev_Jardón	CTACGGA
+El_Tomatal	A	Piquín	15.785	-96.921	11	Individual	Lev_Jardón	GCTGTGGA
+El_Tomatal	A	Piquín	15.785	-96.921	11	Individual	Lev_Jardón	CGCTT
+Tlapacoyan_Pueblo_de_Pilares	A	Chiltepín	19.908	-97.154	604	Lot	Gaby_Martínez_Andrade	TTCAGA
+Tlapacoyan_Pueblo_de_Pilares	A	Chiltepín	19.908	-97.154	604	Lot	Gaby_Martínez_Andrade	GAATTCA
+Tlapacoyan_Pueblo_de_Pilares	A	Chiltepín	19.908	-97.154	604	Lot	Gaby_Martínez_Andrade	TGGTACGT
+Guadalupe_Victoria	A	Chilgol	16.0154667	-95.88925	417	Individual	Lev_Jardón	GGAAC
+Guadalupe_Victoria	A	Chilgol	16.0154667	-95.88925	417	Individual	Lev_Jardón	GGAAGA
+Guadalupe_Victoria	A	Matita	16.0154667	-95.88925	417	Individual	Lev_Jardón	GCGGAAT
+El_Coyul	C	Piquín	15.913	-95.81	49	Repetition	Lev_Jardón	GGATTGGT
+El_Chilar	C	Huacle				Repetition	Lev_Jardón	TCACC
+El_Chilar	C	Huacle				Repetition	Lev_Jardón	TAGGAA
+Guzmán	C	Tusta				Individual	Lev_Jardón	GAACTTC
+Zaachila	C	Solterito				Individual	Lev_Jardón	TCTCAGTC
+El_Coyul	C	Tusta				Individual	Lev_Jardón	GTCAA
+Matancillas	C	Ancho Rojo				Individual	Lev_Jardón	GTACTT
+Villa_de_Cos	C	Mirasol				Lot	Lev_Jardón	TAGCGGA
+Dzibichaltún	C	Maax'ik				Lot	Lev_Jardón	GTGAGGGT
+Rancho_San_Ramón	C	Puya				Lot	Lev_Jardón	CTAGC
+Rancho_San_Ramón	C	Puya				Lot	Lev_Jardón	GCTCTA
+Rancho_San_Ramón	C	Árbol				Lot	Lev_Jardón	GGACCTA
+Rancho_San_Ramón	C	Árbol				Lot	Lev_Jardón	CCGGATAT
+Rancho_San_Ramón	C	Árbol				Lot	Lev_Jardón	TAATA
+El_Tecuán 	C	Pasilla				Lot	Lev_Jardón	GTTGAA
+El_Tecuán 	C	Guajillo				Lot	Lev_Jardón	TCGAAGA
+El_Tecuán 	C	Árbol Yahualica				Lot	Lev_Jardón	TATCGGGA
+BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	BLANK	ACAAA
+El_Zorrillo	C	Mirasol				Repetition	Lev_Jardón	CCACAA
+El_Zorrillo	C	Mirasol				Repetition	Lev_Jardón	GTCGATT
+El_Zorrillo	C	Mirasol				Repetition	Lev_Jardón	CGCCTTAT
+El_Zorrillo	C	Mirasol				Repetition	Lev_Jardón	TACAT
+El_Zorrillo	C	Mirasol				Repetition	Lev_Jardón	TAACGA
+El_Zorrillo	C	Mirasol				Repetition	Lev_Jardón	TCTGTGA
+El_Zorrillo	C	Mirasol				Lot	Lev_Jardón	TTCCTGGA

@@ -1,0 +1,20 @@
+/var/spool/slurm/slurmd/job06563/slurm_script: 17: /var/spool/slurm/slurmd/job06563/slurm_script: process_radtags: not found
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = "es_MX:es",
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_MX.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_MX.UTF-8").
+Failed to process ../data/samples
+java.io.FileNotFoundException: ../data/samples (Is a directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:219)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.<init>(FastQFile.java:73)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:106)
+	at uk.ac.babraham.FastQC.Sequence.SequenceFactory.getSequenceFile(SequenceFactory.java:62)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.processFile(OfflineRunner.java:152)
+	at uk.ac.babraham.FastQC.Analysis.OfflineRunner.<init>(OfflineRunner.java:121)
+	at uk.ac.babraham.FastQC.FastQCApplication.main(FastQCApplication.java:316)

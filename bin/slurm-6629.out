@@ -1,0 +1,14 @@
+Processing paired-end data.
+Using Phred+33 encoding for quality scores.
+Found 1 paired input file(s).
+Searching for single and paired-end, inlined barcodes.
+Invalid barcode on line 1: '#CUTTER=C[AT]G'
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = "es_MX:es",
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_MX.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_MX.UTF-8").
+Skipping '../data/samples*.fastqc.gz' which didn't exist, or couldn't be read

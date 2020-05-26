@@ -1,0 +1,75 @@
+TrimmomaticSE: Started with arguments:
+ -threads 8 ../data/raw/plate1/Pinero-Sept19_S59_L002_R1_001.fastq.gz ../data/clean/Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz ILLUMINACLIP:Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 MINLEN:70
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Reads: 229242021 Surviving: 229242004 (100.00%) Dropped: 17 (0.00%)
+TrimmomaticSE: Completed successfully
+TrimmomaticSE: Started with arguments:
+ -threads 8 ../data/raw/plate1/Pinero-Sept19_S59_L002_R2_001.fastq.gz ../data/clean/Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz ILLUMINACLIP:Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 MINLEN:70
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Reads: 229242021 Surviving: 202503272 (88.34%) Dropped: 26738749 (11.66%)
+TrimmomaticSE: Completed successfully
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = "es_MX:es",
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_MX.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_MX.UTF-8").
+Started analysis of Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 5% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 10% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 15% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 20% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 25% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 30% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 35% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 40% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 45% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 50% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 55% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 60% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 65% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 70% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 75% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 80% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 85% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 90% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Approx 95% complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Analysis complete for Pinero-Sept19_S59_L002_R1_001_clean.fastq.gz
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = "es_MX:es",
+	LC_ALL = (unset),
+	LC_CTYPE = "UTF-8",
+	LANG = "es_MX.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to a fallback locale ("es_MX.UTF-8").
+Started analysis of Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 5% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 10% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 15% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 20% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 25% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 30% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 35% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 40% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 45% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 50% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 55% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 60% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 65% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 70% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 75% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 80% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 85% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 90% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Approx 95% complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
+Analysis complete for Pinero-Sept19_S59_L002_R2_001_clean.fastq.gz
