@@ -42,15 +42,15 @@ This folder corresponds to the script output 1_clean_adapters.sh, who works with
 
 * raw: contains a subdirectory called plate1 than keeps to the following files:
 
-**GBS-ApeKI-1-96_barcodes.txt**: which has information on the barcode and the position of the sample on the plate as given by the sequencing facility.
+GBS-ApeKI-1-96_barcodes.txt**: which has information on the barcode and the position of the sample on the plate as given by the sequencing facility.
 
 _md5sum.txt: test to check if data download was done without errors.
 
-**_multiqc_report.html**: is an average quality report of the sequences 
+_multiqc_report.html: is an average quality report of the sequences 
 
-**Pinero-Sept19_S59_L002_R1_001.fastq.gz**: contains the reads in .fastq.gz, only FORWARD 
+Pinero-Sept19_S59_L002_R1_001.fastq.gz: contains the reads in .fastq.gz, only FORWARD 
 
-**Pinero-Sept19_S59_L002_R2_001.fastq.gz**: contains the reads in .fastq.gz, only REVERSE
+Pinero-Sept19_S59_L002_R2_001.fastq.gz: contains the reads in .fastq.gz, only REVERSE
 
 * ref_genome: in this directory we will find a file called GCA_002878395.2_UCD10Xv1.0_genomic.fna.gz what is the reference genome from scrip 3_ref_gen_download.sh
 
