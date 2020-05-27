@@ -7,10 +7,10 @@ El objetivo de este trabajo es utilizar la técnica RADseq para estudiar la vari
 
 **DISCUSIÓN**
 
-La figura que obtuve para este trabajo, en el eje *x* grafica a las muestras por *y* en el y al número de reads.
+La figura que obtuve para este trabajo, en el eje *x* grafiqué las muestras y en el *y* al número de reads.
 
 Por lo tanto, la gráfica indica que el BLANCO tiene pocos reads, lo que se espera si la secuenciación no tuvo percances de contaminación.
 
 En cuanto a la muesta CaTEM7 tiene pocos reads por lo que para los análisis es necesario removerla. Asimismo, la muestra CaSAN1 también tiene poco reads, en comparación con las demás muestras, de tal forma que es importante evaluar si es necesario removerla de los análisis.
 
-En general los reads de las muestras son unirformes, por lo que concluyo que la extracción del DNA y secuenciación fueron exitosas, logrando tener una buena cantidad de reads.
+En general los reads de las muestras son uniformes, por lo que concluyo que la extracción del DNA y secuenciación fueron exitosas, logrando tener una buena cantidad de reads para cada uno de los individuos
