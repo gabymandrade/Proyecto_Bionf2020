@@ -18,6 +18,9 @@ In the `/bin` directory you will find:
 * reads_perpopulation_plate1.R: script to graph in ggplot2 the reads by population of plate 1
 
 
+**discusión**: contains a summary of my project as well as a short discussion of the graph of r
+
+
 `/meta` contains metadata:
 
 * barcode_samples_plate1.txt: in this file we can find the barcodes and the samples name, what is requirement for demultiplexing with process radtags
