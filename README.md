@@ -57,3 +57,4 @@ Pinero-Sept19_S59_L002_R2_001.fastq.gz: contains the reads in .fastq.gz, only RE
 * samples: this directory contains each of the samples demultiplexed by process radtags
 
 
+`/output` contains reads_perpopulation_plate1.html, or the result of script reads_perpopulation_plate1.R plot of reads per population.
