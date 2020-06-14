@@ -8,7 +8,7 @@
 
 
 #Create directory for my output
-mkdir ../data/bwa/index_genome
+mkdir -p ../data/bwa/index_genome
 
 
 #Define variables
